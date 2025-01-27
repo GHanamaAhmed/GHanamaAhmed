@@ -58,44 +58,6 @@ Mission: Turning coffee into clean code and complex workflows into automated sol
 
 ---
 
-## 🏆 **Key Projects**
-
-### 1. [QR-Based Attendance System](https://github.com/your-repo)  
-**MERN Stack | Flutter | Socket.io**  
-Digitized university attendance with real-time sync, saving 20+ hours/month in manual work.
-
-### 2. [E-Commerce Platform](https://github.com/your-repo)  
-**Next.js | Docker | GitHub Actions**  
-Automated deployments with zero downtime, reducing customer inquiries by 80%.
-
-### 3. [Comics Translation SAAS](https://github.com/your-repo)  
-**AWS Lambda | Google AI | Vercel**  
-Cut manual translation time by 70% for 500+ users using NLP.
-
-### 4. [Scraping Browser Extension](https://github.com/your-repo)  
-**Puppeteer | Next.js | Docker**  
-Saved users 10+ hours/week on data entry with automated e-commerce scraping.
-
----
-
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GHanamaAhmed&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHanamaAhmed&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
----
-
-## 💼 **Professional Experience**
-
-**Freelance Full Stack Developer** (2020–Present)  
-- Delivered 6+ scalable projects using **AWS Serverless** and **CI/CD pipelines**.  
-- Reduced infrastructure costs by 35% via Docker and VPS optimizations.  
-- Automated workflows to eliminate 90% of manual customer interactions for clients.
-
----
-
 ## 🎓 **Education**
 
 - **M.Sc. in Computer Science** | Ahmed Draia University *(Sep 2023–Present)*  
